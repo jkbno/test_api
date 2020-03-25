@@ -1,344 +1,74 @@
 {
-    "1001": [
-      {
-        direction: "in",
-        date: "2019-01-13 13:45:17",
-        text: "szukam trampek",
-        color: "light-green",
-        icon: "mdi-account"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:45:22",
-        text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      },
-      {
-        direction: "in",
-        date: "2019-01-13 13:46:03",
-        text: "czerwone, tylko czerwone",
-        color: "light-green",
-        icon: "mdi-account"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:46:29",
-        text: "indigo",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:45:22",
-        text: "w jakim kolorze?",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      },
-      {
-        direction: "in",
-        date: "2019-01-13 13:46:03",
-        text: "czerwone, tylko czerwone",
-        color: "light-green",
-        icon: "mdi-account"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:46:29",
-        text: "indigo",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:45:22",
-        text: "w jakim kolorze?",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      },
-      {
-        direction: "in",
-        date: "2019-01-13 13:46:03",
-        text: "czerwone, tylko czerwone",
-        color: "light-green",
-        icon: "mdi-account"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:46:29",
-        text: "indigo",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      }
-    ],
-    "1002": [
-      {
-        direction: "in",
-        date: "2019-01-13 13:45:17",
-        text: "szukam półbótów",
-        color: "light-green",
-        icon: "mdi-account"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:45:22",
-        text: "w jakim kolorze?",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      },
-      {
-        direction: "in",
-        date: "2019-01-13 13:46:03",
-        text: "czerwone, tylko czerwone",
-        color: "light-green",
-        icon: "mdi-account"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:46:29",
-        text: "indigo",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      }
-    ],
-    "1003": [
-      {
-        direction: "in",
-        date: "2019-01-13 13:45:17",
-        text: "szukam ćwierćbótów",
-        color: "light-green",
-        icon: "mdi-account"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:45:22",
-        text: "w jakim kolorze?",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      },
-      {
-        direction: "in",
-        date: "2019-01-13 13:46:03",
-        text: "czerwone, tylko czerwone",
-        color: "light-green",
-        icon: "mdi-account"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:46:29",
-        text: "indigo",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      }
-    ],
-    "1004": [
-      {
-        direction: "in",
-        date: "2019-01-13 13:45:17",
-        text: "szukam bótów sportowych",
-        color: "light-green",
-        icon: "mdi-account"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:45:22",
-        text: "w jakim kolorze?",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      },
-      {
-        direction: "in",
-        date: "2019-01-13 13:46:03",
-        text: "czerwone, tylko czerwone",
-        color: "light-green",
-        icon: "mdi-account"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:46:29",
-        text: "indigo",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      }
-    ],
-    "1005": [
-      {
-        direction: "in",
-        date: "2019-01-13 13:45:17",
-        text: "szukam adidasów",
-        color: "light-green",
-        icon: "mdi-account"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:45:22",
-        text: "w jakim kolorze?",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      },
-      {
-        direction: "in",
-        date: "2019-01-13 13:46:03",
-        text: "czerwone, tylko czerwone",
-        color: "light-green",
-        icon: "mdi-account"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:46:29",
-        text: "indigo",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      }
-    ],
-    "1006": [
-      {
-        direction: "in",
-        date: "2019-01-13 13:45:17",
-        text: "szukam adidasów",
-        color: "light-green",
-        icon: "mdi-account"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:45:22",
-        text: "w jakim kolorze?",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      },
-      {
-        direction: "in",
-        date: "2019-01-13 13:46:03",
-        text: "czerwone, tylko czerwone",
-        color: "light-green",
-        icon: "mdi-account"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:46:29",
-        text: "indigo",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      }
-    ],
-    "1007": [
-      {
-        direction: "in",
-        date: "2019-01-13 13:45:17",
-        text: "szukam adidasów",
-        color: "light-green",
-        icon: "mdi-account"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:45:22",
-        text: "w jakim kolorze?",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      },
-      {
-        direction: "in",
-        date: "2019-01-13 13:46:03",
-        text: "czerwone, tylko czerwone",
-        color: "light-green",
-        icon: "mdi-account"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:46:29",
-        text: "indigo",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      }
-    ],
-    "1008": [
-      {
-        direction: "in",
-        date: "2019-01-13 13:45:17",
-        text: "szukam adidasów",
-        color: "light-green",
-        icon: "mdi-account"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:45:22",
-        text: "w jakim kolorze?",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      },
-      {
-        direction: "in",
-        date: "2019-01-13 13:46:03",
-        text: "czerwone, tylko czerwone",
-        color: "light-green",
-        icon: "mdi-account"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:46:29",
-        text: "indigo",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      }
-    ],
-    "1009": [
-      {
-        direction: "in",
-        date: "2019-01-13 13:45:17",
-        text: "szukam adidasów",
-        color: "light-green",
-        icon: "mdi-account"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:45:22",
-        text: "w jakim kolorze?",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      },
-      {
-        direction: "in",
-        date: "2019-01-13 13:46:03",
-        text: "czerwone, tylko czerwone",
-        color: "light-green",
-        icon: "mdi-account"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:46:29",
-        text: "indigo",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      }
-    ],
-    "1010": [
-      {
-        direction: "in",
-        date: "2019-01-13 13:45:17",
-        text: "szukam adidasów",
-        color: "light-green",
-        icon: "mdi-account"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:45:22",
-        text: "w jakim kolorze?",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      },
-      {
-        direction: "in",
-        date: "2019-01-13 13:46:03",
-        text: "czerwone, tylko czerwone",
-        color: "light-green",
-        icon: "mdi-account"
-      },
-      {
-        direction: "out",
-        date: "2019-01-13 13:46:29",
-        text: "indigo",
-        color: "purple darken-1",
-        icon: "mdi-robot"
-      },
-    ],
- }
+	"1001": [
+	  {
+		"direction": "in",
+		"date": "2019-01-13 13:45:17",
+		"text": "szukam trampek",
+		"color": "light-green",
+		"icon": "mdi-account"
+	  },
+	  {
+		"direction": "out",
+		"date": "2019-01-13 13:45:22",
+		"text": "Lorem Ipsum is simply dummy asdasdasdsa asdasda asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asdasd ad",
+		"color": "purple darken-1",
+		"icon": "mdi-robot"
+	  },
+	  {
+		"direction": "in",
+		"date": "2019-01-13 13:46:03",
+		"text": "czerwone, tylko czerwone",
+		"color": "light-green",
+		"icon": "mdi-account"
+	  },
+	  {
+		"direction": "out",
+		"date": "2019-01-13 13:46:29",
+		"text": "indigo",
+		"color": "purple darken-1",
+		"icon": "mdi-robot"
+	  },
+	  {
+		"direction": "out",
+		"date": "2019-01-13 13:45:22",
+		"text": "w jakim kolorze?",
+		"color": "purple darken-1",
+		"icon": "mdi-robot"
+	  },
+	  {
+		"direction": "in",
+		"date": "2019-01-13 13:46:03",
+		"text": "czerwone, tylko czerwone",
+		"color": "light-green",
+		"icon": "mdi-account"
+	  },
+	  {
+		"direction": "out",
+		"date": "2019-01-13 13:46:29",
+		"text": "indigo",
+		"color": "purple darken-1",
+		"icon": "mdi-robot"
+	  },
+	  {
+		"direction": "out",
+		"date": "2019-01-13 13:45:22",
+		"text": "w jakim kolorze?",
+		"color": "purple darken-1",
+		"icon": "mdi-robot"
+	  },
+	  {
+		"direction": "in",
+		"date": "2019-01-13 13:46:03",
+		"text": "czerwone, tylko czerwone",
+		"color": "light-green",
+		"icon": "mdi-account"
+	  },
+	  {
+		"direction": "out",
+		"date": "2019-01-13 13:46:29",
+		"text": "indigo",
+		"color": "purple darken-1",
+		"icon": "mdi-robot"
+	  }
+	]
+}
